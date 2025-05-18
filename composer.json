@@ -1,0 +1,13 @@
+{
+  "name": "yusologia/php-framework",
+  "description": "Yusologia Framework",
+  "type": "project",
+  "license": "MIT",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/",
+      "Core\\": "core/"
+    }
+  }
+}
